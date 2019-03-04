@@ -15,4 +15,5 @@ If you right-click on a column, you can hide it. If you want the column to be sh
 If you right-click on a row header, you can delete an entry. Multiple selections are allowed too.
 Any changes you make will be saved when the program is closed. 
 The program does remember the size and the position of the application, so next time you start the program, the size and the position will be the same as when you closed it. 
+
 All the setting are saved under C:\users\<username>AppData\Local\pusshy folder. 
