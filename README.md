@@ -19,3 +19,6 @@ Any changes you make will be saved when the program is closed.
 The program does remember the size and the position of the application, so next time you start the program, the size and the position will be the same as when you closed it. 
 
 All the setting are saved under **C:\users\<username>\AppData\Local\pusshy** folder. 
+
+![](123.png)
+
