@@ -1,0 +1,10 @@
+C:\Users\klimenta\source\repos\pusshy\pusshy\bin\x86\Debug\pusshy.exe.config
+C:\Users\klimenta\source\repos\pusshy\pusshy\bin\x86\Debug\pusshy.exe
+C:\Users\klimenta\source\repos\pusshy\pusshy\bin\x86\Debug\pusshy.pdb
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.frmpusshy.resources
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.Properties.Resources.resources
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.csproj.GenerateResource.cache
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.csproj.CoreCompileInputs.cache
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.exe
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.pdb
+C:\Users\klimenta\source\repos\pusshy\pusshy\obj\x86\Debug\pusshy.csprojAssemblyReference.cache
