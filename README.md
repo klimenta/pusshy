@@ -29,3 +29,13 @@ Double-click top start a new session. Single-click to edit a cell.
 
 ![Screenshot](https://user-images.githubusercontent.com/7636104/53757607-1594e800-3e8a-11e9-9850-efbe1f6880b4.PNG)
 
+# Issue with certificates
+If you get an error that your certificate is wide open, you'll have to make some changes to its permissions. Pretty much, you have to restrict the certificate file so only you have access to it. In order to do that, execute these lines from a command prompt (not from Power Shell).
+```
+set key="c:\keys\mykeypair.pem"
+cmd /c icacls %key% /c /t /inheritance:d
+cmd /c icacls %key% /c /t /grant %username%:F
+cmd /c icacls %key%  /c /t /remove Administrator BUILTIN\Administrators BUILTIN Everyone System Users "Authenticated Users"
+cmd /c icacls %key%
+```
+
