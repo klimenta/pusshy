@@ -20,5 +20,7 @@ The program does remember the size and the position of the application, so next 
 
 All the setting are saved under **C:\users\<username>\AppData\Local\pusshy** folder. 
 
+Double-click top start a new session. Single-click to edit a cell.
+
 ![Screenshot](https://user-images.githubusercontent.com/7636104/53757607-1594e800-3e8a-11e9-9850-efbe1f6880b4.PNG)
 
